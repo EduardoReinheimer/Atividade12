@@ -1,4 +1,4 @@
-package HomeTheater;
+package homeTheater;
 
 public class SistemaDeSom extends EquipamentoEletronico {
 
